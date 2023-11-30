@@ -17,15 +17,15 @@
   "exports": {
     ".": {
       "import": {
-        "types": "./module/ts-node-mocha-mts.d.ts",
-        "default": "./module/ts-node-mocha-mts.js"
+        "types": "./module/sum.d.mts",
+        "default": "./module/sum.mjs"
       },
-      "default": "./module/ts-node-mocha-mts.js"
+      "default": "./module/sum.mjs"
     },
     "./package.json": "./package.json"
   },
-  "main": "./module/ts-node-mocha-mts.js",
-  "types": "./module/ts-node-mocha-mts.d.ts",
+  "main": "./module/sum.mjs",
+  "types": "./module/sum.d.mts",
   "directories": {
     "lib": "lib",
     "test": "test"
