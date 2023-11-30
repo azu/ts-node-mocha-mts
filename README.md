@@ -1,16 +1,11 @@
 # ts-node-mocha-mts
 
-
-
-## Install
-
-Install with [npm](https://www.npmjs.com/package/ts-node-mocha-mts):
-
-    npm install ts-node-mocha-mts
-
 ## Usage
 
-- [ ] Write usage instructions
+```
+yarn install
+yarn test
+```
 
 ## Changelog
 
